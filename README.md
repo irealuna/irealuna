@@ -12,10 +12,31 @@ Hi, I'm [yuepingxie](https://github.com/yuepingxie), a passionate DevOps and a f
 - 📫 Any freelance work? do reach, [email](xieyp9339@163.com).
 - ⚡ Fun fact: I'm a huge fan of Iron Man. I enjoy photography.
 
-### languages and tools:
-Golang, Python, JavaScript, Kubernetes, Docker, Shell, Gitlab, PostgreSQL
+<p align="center">
+  <a href="https://github.com/yuepingxie" class="rich-diff-level-one">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=333&text_color=777" alt="yuepingxie's Stats" > -->
+    
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://blog.csdn.net/supergirlll" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://space.bilibili.com/330186954" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/yuepingxie" target="_blank" alt="LinkedIn" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+</p>
+
+
 
 **Languages and Frameworks**
+Golang, Python, JavaScript, Kubernetes, Docker, Shell, Gitlab, PostgreSQL
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" title="Golang"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -38,9 +59,7 @@ Golang, Python, JavaScript, Kubernetes, Docker, Shell, Gitlab, PostgreSQL
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
 
-```
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api?username=yuepingxie)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=yuepingxie) -->
