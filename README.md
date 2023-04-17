@@ -15,7 +15,7 @@ Hi, I'm [yuepingxie](https://github.com/yuepingxie), a passionate DevOps and a f
 <p align="center">
   <a href="https://github.com/yuepingxie" class="rich-diff-level-one">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=333&text_color=777" alt="yuepingxie's Stats" > -->
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=330&text_color=700" alt="yuepingxie's Stats" >
   </a>
 </p>
 
