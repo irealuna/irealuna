@@ -36,15 +36,15 @@ Hi, I'm [yuepingxie](https://github.com/yuepingxie), a passionate DevOps and a f
 
 
 **Languages and Frameworks**
-Golang, Python, JavaScript, Kubernetes, Docker, Shell, Gitlab, PostgreSQL
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" title="Golang"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" title="Kubernetes"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="PostgreSQL" title="PostgreSQL"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+
 
 
 **Tools and Environments**
