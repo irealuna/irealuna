@@ -10,7 +10,7 @@ Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a 
 
 - 💬 Ask me about anything, i am happy to help.
 - 📫 Any freelance work? do reach, [email](xieyp9339@163.com).
-- ⚡ Fun fact: I'm a huge fan of Iron Man. I enjoy photography.
+- ⚡ Fun fact: I enjoy photography.
 
 <p align="center">
   <a href="https://github.com/yuepingxie" class="rich-diff-level-one">
@@ -57,7 +57,7 @@ Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-📊 **This Week I Spent My Time On:**
+<!--📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Golang          31 hrs 52 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.10 %
@@ -68,5 +68,4 @@ Shell           13 hrs 57 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 Others          6 hrs 13 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.12 %
 ```
 <!--END_SECTION:waka-->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=yuepingxie) -->
+-->
