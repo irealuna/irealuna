@@ -57,7 +57,10 @@ Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-<!--📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+
+```
 
 <!--END_SECTION:waka-->
