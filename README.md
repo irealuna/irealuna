@@ -32,7 +32,7 @@ Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a 
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   &emsp;
-  ![](https://img.shields.io/twitter/follow/IreaLunaShow?style=social)
+  <a href="https://img.shields.io/twitter/follow/IreaLunaShow?style=social" alt="Twitter" title="Twitter">
 </p>
 
 
