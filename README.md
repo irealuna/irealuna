@@ -61,10 +61,3 @@ Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
 
-📊 **This Week I Spent My Time On **
-<!--START_SECTION:waka-->
-```text
-
-```
-
-<!--END_SECTION:waka-->
