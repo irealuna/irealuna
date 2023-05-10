@@ -14,8 +14,8 @@ Hi, I'm [Xie Yueping](https://github.com/irealuna), a passionate DevOps and a fr
 
 <p align="center">
   <a href="https://github.com/yuepingxie" class="rich-diff-level-one">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=333&text_color=777" alt="yuepingxie's Stats" > -->
-    <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=333&text_color=777" alt="yuepingxie's Stats" >
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=irealuna&title_color=333&text_color=777" alt="yuepingxie's Stats" > -->
+    <img src="https://github-readme-stats.vercel.app/api?username=irealuna&title_color=333&text_color=777" alt="yuepingxie's Stats" >
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Hi, I'm [Xie Yueping](https://github.com/irealuna), a passionate DevOps and a fr
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.linkedin.com/in/yuepingxie" target="_blank" alt="LinkedIn" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/irealuna" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   &emsp;
