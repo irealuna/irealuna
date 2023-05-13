@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yuepingxie/yuepingxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
 Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a freelance software engineer from China. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 💬  Ask me about anything, i am happy to help.
@@ -14,7 +8,6 @@ Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a 
 
 <p align="center">
   <a href="https://github.com/yuepingxie" class="rich-diff-level-one">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=333&text_color=777" alt="yuepingxie's Stats" > -->
     <img src="https://github-readme-stats.vercel.app/api?username=yuepingxie&title_color=333&text_color=777" alt="yuepingxie's Stats" >
   </a>
 </p>
