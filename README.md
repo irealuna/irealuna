@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate DevOps and a freelance software engineer from China. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Xie Yueping](https://github.com/yuepingxie), a passionate and freelance GIS software engineer from China. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 💬  Ask me about anything, i am happy to help.
 - 📫  Any freelance work? do reach, [email](xieyp9339@163.com).
